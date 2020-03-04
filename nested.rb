@@ -19,7 +19,6 @@ def hopper
 end
 
 def alan_kay_is_known_for
-  hopper[:alan_kay][:known_for]
 
 	programmer_hash = 
  		{
